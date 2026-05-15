@@ -49,6 +49,12 @@ If this skill helps you work smarter, that's all I wanted.
 | [oeftimie/vv-claude-harness](https://github.com/oeftimie/vv-claude-harness) | Claude Code harness built on Manus-style persistent markdown planning |
 | [jessepwj/CCteam-creator](https://github.com/jessepwj/CCteam-creator) | Multi-agent team orchestration skill using file-based planning |
 
+### Skill Registries & Hubs
+
+| Registry | What It Is |
+|----------|-----------|
+| [buzhangsan/skill-manager](https://github.com/buzhangsan/skill-manager) | Bilingual (EN/中文) skill hub indexing 31,000+ Claude Code skills — planning-with-files installable one-click. |
+
 *Built something? [Open an issue](https://github.com/OthmanAdi/planning-with-files/issues) to get listed!*
 
 </details>
@@ -483,6 +489,12 @@ MIT License — feel free to use, modify, and distribute.
 ---
 
 **Author:** [Ahmad Othman Ammar Adi](https://github.com/OthmanAdi)
+
+## ClawHub Downloads
+
+<p align="center">
+  <a href="https://skill-history.com/othmanadi/planning-with-files"><img src="https://skill-history.com/badge/othmanadi/planning-with-files.svg" alt="ClawHub Downloads"></a>
+</p>
 
 ## Star History
 
